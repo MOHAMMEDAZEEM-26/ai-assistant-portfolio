@@ -31,7 +31,7 @@ def home():
     """
 
     prompt = f"""
-You are a creative CSS designer. Based on the following HTML structure, generate a complete modern, visually appealing, responsive CSS stylesheet.
+You are a creative CSS designer. Based on the following HTML structure, generate a complete modern, visually appealing, responsive CSS stylesheet.(add animations, colors, effects, styles etc)
 
 Every time this is called, give a **unique design**: different colors, fonts, button styles, layout tweaks, and animations (if desired).
 
